@@ -1,0 +1,26 @@
+.player-picture{
+    width: 200px;
+    border-radius: 50%;
+    margin: 0 auto;
+    padding: 10px;
+}
+.country{
+    height: 20px;
+}
+.player-info{
+    font-family: 'Poppins', sans-serif;
+    border-radius: 5px;
+    margin: 15px 0px 15px 0px;
+    padding-bottom: 20px;
+    color: dimgray;
+    
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 15px gray;
+    width: 230px;
+}
+.card-title{
+    font-weight: 800;
+    color: cornflowerblue;
+}

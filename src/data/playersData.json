@@ -1,0 +1,161 @@
+[{
+    "id": 1,
+    "name": "Shakib Al Hasan",
+    "rank": 1,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1000px-Flag_of_Bangladesh.svg.png",
+    "role": "Batting Allrounder",
+    "salary": 4700,
+    "picture": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170912/shakib-al-hasan.jpg"
+  }, {
+    "id": 2,
+    "name": "Mushfiqur Rahim",
+    "rank": 15,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1000px-Flag_of_Bangladesh.svg.png",
+    "role": "WK-Batsman",
+    "salary": 7300,
+    "picture": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170916/mushfiqur-rahim.jpg"
+  }, {
+    "id": 3,
+    "name": "Mashrafe Mortaza",
+    "rank": "45",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1000px-Flag_of_Bangladesh.svg.png",
+    "role": "Bowler",
+    "salary": 5300,
+    "picture": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170920/mashrafe-mortaza.jpg"
+  }, {
+    "id": 4,
+    "name": "Steven Smith",
+    "rank": 16,
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/1280px-Flag_of_Australia.svg.png",
+    "role": "Batsman",
+    "salary": 9000,
+    "picture": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170624/steven-smith.jpg"
+  }, {
+    "id": 5,
+    "name": "Glenn Maxwell",
+    "rank": 5,
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/1280px-Flag_of_Australia.svg.png",
+    "role": "Batting Allrounder",
+    "salary": 7600,
+    "picture": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170641/glenn-maxwell.jpg"
+  }, {
+    "id": 6,
+    "name": "Aaron Finch",
+    "rank": 3,
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/1280px-Flag_of_Australia.svg.png",
+    "role": "Batsman",
+    "salary": 7200,
+    "picture": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170630/aaron-finch.jpg"
+  }, {
+    "id": 7,
+    "name": "Lasith Malinga",
+    "rank": 28,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1280px-Flag_of_Sri_Lanka.svg.png",
+    "role": "Bowler",
+    "salary": 4985,
+    "picture": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170724/lasith-malinga.jpg"
+  }, {
+    "id": 8,
+    "name": "Thisara Perera",
+    "rank": 9,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1280px-Flag_of_Sri_Lanka.svg.png",
+    "role": "Bowling Allrounder",
+    "salary": 4600,
+    "picture": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170714/thisara-perera.jpg"
+  }, {
+    "id": 9,
+    "name": "Shoaib Malik",
+    "rank": 73,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1280px-Flag_of_Pakistan.svg.png",
+    "role": "Bating-Alrounder",
+    "salary": 5600,
+    "picture": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170775/shoaib-malik.jpg"
+  }, {
+    "id": 10,
+    "name": "Mohammad Amir",
+    "rank": 9,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1280px-Flag_of_Pakistan.svg.png",
+    "role": "Bowler",
+    "salary": 4500,
+    "picture": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170813/mohammad-amir.jpg"
+  }, {
+    "id": 11,
+    "name": "Moeen Ali",
+    "rank": 52,
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png",
+    "role": "Male",
+    "salary": 6500,
+    "picture": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170953/moeen-ali.jpg"
+  }, {
+    "id": 12,
+    "name": "Jofra Archer",
+    "rank": 19,
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png",
+    "role": "Bowler",
+    "salary": 5800,
+    "picture": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170970/jofra-archer.jpg"
+  }, {
+    "id": 13,
+    "name": "Jonny Bairstow",
+    "rank": 13,
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png",
+    "role": "WK-Batsman",
+    "salary": 6950,
+    "picture": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170976/jonny-bairstow.jpg"
+  }, {
+    "id": 14,
+    "name": "Rashid Khan",
+    "rank": 3,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_the_Islamic_Republic_of_Afghanistan.svg/1280px-Flag_of_the_Islamic_Republic_of_Afghanistan.svg.png",
+    "role": "Bowler",
+    "salary": 3580,
+    "picture": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170857/rashid-khan.jpg"
+  }, {
+    "id": 15,
+    "name": "Kagiso Rabada",
+    "rank": 6,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
+    "role": "Bowler",
+    "salary": 4420,
+    "picture": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170759/kagiso-rabada.jpg"
+  }, {
+    "id": 16,
+    "name": "Imran Tahir",
+    "rank": 10,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
+    "role": "Bowler",
+    "salary": 4999,
+    "picture": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170764/imran-tahir.jpg"
+  }, {
+    "id": 17,
+    "name": "Ross Taylor",
+    "rank": 4,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/1280px-Flag_of_New_Zealand.svg.png",
+    "role": "Batsman",
+    "salary": 6200,
+    "picture": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170729/ross-taylor.jpg"
+  }, {
+    "id": 18,
+    "name": "Kane Williamson",
+    "rank": 2,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/1280px-Flag_of_New_Zealand.svg.png",
+    "role": "Batsman",
+    "salary": 8050,
+    "picture": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170733/kane-williamson.jpg"
+  }, {
+    "id": 19,
+    "name": "Sikandar Raza",
+    "rank": 29,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg",
+    "role": "Batting Allrounder",
+    "salary": 2998,
+    "picture": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155197/sikandar-raza.jpg"
+  }, {
+    "id": 20,
+    "name": "Jason Holder",
+    "rank": 33,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/WestIndiesCricketFlagPre1999.svg/1280px-WestIndiesCricketFlagPre1999.svg.png",
+    "role": "Bowling Allrounder",
+    "salary": 3896,
+    "picture": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170806/jason-holder.jpg"
+  }]

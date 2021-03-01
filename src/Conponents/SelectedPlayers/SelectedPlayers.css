@@ -1,0 +1,9 @@
+table{
+    text-align: left;
+    color: dimgray;
+    font-family: 'Poppins', sans-serif;
+    margin: 0 auto;
+}
+.counter{
+    padding-right: 30px;
+}
