@@ -7,12 +7,12 @@ import SelectedPlayers from "./Conponents/SelectedPlayers/SelectedPlayers";
 
 function App() {
   const [players, setPlayers] = useState([]);
-  const [team, setTeam] = useState([])
+  const [team, setTeam] = useState([]);
 
-  const handleSelectClick = (player) =>{
+  const handleSelectClick = (player) => {
     const newTeam = [...team, player];
-    setTeam(newTeam)
-  }
+    setTeam(newTeam);
+  };
 
   useEffect(() => {
     setPlayers(PlayersData);
@@ -21,12 +21,18 @@ function App() {
     <div className="App">
       <h1 className="league-title">Hero Premier League</h1>
       <h2 className="team-name">Lion Super King</h2>
-      <h5 className="league-event">Player Draft and Selection : Total Players : {players.length}</h5>
+      <h5 className="league-event">
+        Player Draft and Selection : Total Players : {players.length}
+      </h5>
       <div className="players-draft row">
         <div className="col-md-10 players">
-          {
-            players.map(player => <Players handleSelectClick={handleSelectClick} player={player} key={player.id}></Players>)
-          }
+          {players.map((player) => (
+            <Players
+              handleSelectClick={handleSelectClick}
+              player={player}
+              key={player.id}
+            ></Players>
+          ))}
         </div>
         <div className="col-md-2">
           <SelectedPlayers team={team}></SelectedPlayers>

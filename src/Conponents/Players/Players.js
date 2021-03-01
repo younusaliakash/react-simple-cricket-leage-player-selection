@@ -15,10 +15,15 @@ const Players = (props) => {
                     <div className="card-body">
                         <h5 className="card-title">{name}</h5>
                         <img src={flag} className="country" alt=""/>
-                        <p className="card-text"> <FontAwesomeIcon icon={faMedal} /> Ranking : {rank}</p>
+                        <p className="card-text"> 
+                            <FontAwesomeIcon icon={faMedal} />
+                             Ranking : {rank}
+                         </p>
                         <p>Role: {role}</p>
                         <p>Monthly Salary: ${salary}</p>
-                        <button className="btn btn-info" onClick={() => handleSelectClick(props.player)}> <FontAwesomeIcon icon={faCheckDouble} /> Select Player</button>
+                        <button className="btn btn-info" onClick={() => handleSelectClick(props.player)}>
+                             <FontAwesomeIcon icon={faCheckDouble} /> Select Player
+                        </button>
                     </div>
                 </div>
             </div>

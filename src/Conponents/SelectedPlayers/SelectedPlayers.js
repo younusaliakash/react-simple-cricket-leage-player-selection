@@ -16,7 +16,7 @@ const SelectedPlayers = (props) => {
                         <td>{team.length}</td>
                     </tr>
                     <tr>
-                        <td className="counter">Total Cost :</td>
+                        <td className="counter">Total Salary :</td>
                         <td>${totalSalary}</td>
                     </tr>
                 </tbody>

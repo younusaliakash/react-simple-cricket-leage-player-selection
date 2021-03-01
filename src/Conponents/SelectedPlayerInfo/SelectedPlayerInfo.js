@@ -12,7 +12,9 @@ const SelectedPlayerInfo = (props) => {
                     <img src={picture} className="player-img" alt=""/>
                 </div>
                 <div className="select-mark-logo">
-                    <span className="selected-mark"><FontAwesomeIcon icon={faCircle}/></span>
+                    <span className="selected-mark">
+                        <FontAwesomeIcon icon={faCircle}/>
+                    </span>
                 </div>
                 <div className="player-title">
                     <h6 className="player-name">{name}</h6>
