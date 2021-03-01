@@ -1,5 +1,5 @@
 .player-title-card{
-    width: 180px;
+    width: 190px;
     margin: 0 auto;
 }
 .player-title-card img{
@@ -9,10 +9,11 @@
     box-shadow: 5px 5px 15px gray;
 }
 .player-title{
+    font-family: 'Poppins', sans-serif;
     box-shadow: 5px 5px 15px gray;
     border-radius: 5px;
     margin: 10px 0px 20px 0px;
-    width: 180px;
+    width: 190px;
 }
 .player-name{
     padding-top: 7px;
